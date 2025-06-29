@@ -24,7 +24,24 @@ This interactive Shiny app simulates interest rate risk using the Vasicek model 
 - **PV Distribution**: Histogram of simulated present values  
 - **Risk Metrics**: Displays mean, std dev, VaR, CVaR, and percentiles  
 - **vs. Deterministic**: Compares average stochastic PV with the initial fixed rate  
-- **Cash Flows**: Shows annuity schedule (bar chart)  
+- **Cash Flows**: Shows annuity schedule (bar chart)
+
+## 🖼️ App Screenshots
+
+**📈 Interest Rate Paths**
+![Interest Rate Paths](rate_paths.png)
+
+**📊 PV Distribution**
+![PV Distribution](pv_distribution.png)
+
+**📋 Risk Metrics**
+![Risk Metrics](risk_metrics.png)
+
+**📉 Stochastic vs Deterministic PV**
+![Deterministic vs Stochastic](vs_deterministic.png)
+
+**💵 Annuity Cash Flows**
+![Cash Flows](cash_flows.png)
 
 ## 🔧 Future Improvements
 
