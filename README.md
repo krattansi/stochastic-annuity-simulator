@@ -50,9 +50,9 @@ This interactive Shiny app simulates interest rate risk using the Vasicek model 
 - Add asset-side modeling for full ALM simulation  
 - Parameter sensitivity toggles (scenario analysis)  
 
-## 📂 File
+## 🔗 Shiny App Link
 
-- `app.R` – Full Shiny app with UI, server logic, and simulation functions  
+- https://krattansi.shinyapps.io/annuity_stochastic_analysis/
 
 ## 💼 Why This Project?
 
